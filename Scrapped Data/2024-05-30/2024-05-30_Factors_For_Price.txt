@@ -1,0 +1,4 @@
+1.00 USD = 278.15 PKR
+1.00 AED = 75.72 PKR
+1.00 CNY = 38.44 PKR
+I dont know any other factors that might affect the prices
